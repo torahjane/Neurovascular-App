@@ -1,0 +1,51 @@
+Session,HRV,EMG,Posture,Stage,Signal Quality,RPI,Feedback
+1,95,overactive,lean_right,1,good,50,🟡 Moderate stage: Adjust posture and stay calm.
+2,97,normal,aligned,0,good,60,✅ You're healing. Great posture! Keep it up.
+3,26,overactive,aligned,2,good,55,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+4,37,overactive,lean_left,2,good,58,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+5,93,overactive,lean_left,1,good,68,🟡 Moderate stage: Adjust posture and stay calm.
+6,44,overactive,aligned,2,good,63,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+7,38,underactive,slouched,2,good,66,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+8,87,normal,aligned,0,good,76,✅ You're healing. Great posture! Keep it up.
+9,89,underactive,lean_left,2,good,71,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+10,100,underactive,aligned,0,good,81,✅ You're healing. Great posture! Keep it up.
+11,67,underactive,aligned,0,good,84,✅ You're healing. Great posture! Keep it up.
+12,39,overactive,slouched,2,good,79,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+13,95,normal,aligned,0,good,89,✅ You're healing. Great posture! Keep it up.
+14,98,normal,slouched,1,good,84,🟡 Moderate stage: Adjust posture and stay calm.
+15,68,underactive,lean_left,1,good,87,🟡 Moderate stage: Adjust posture and stay calm.
+16,100,underactive,lean_left,2,good,82,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+17,37,overactive,aligned,2,good,85,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+18,37,underactive,lean_right,2,good,88,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+19,89,underactive,lean_right,2,good,91,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+20,60,overactive,aligned,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+21,98,underactive,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+22,38,overactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+23,85,overactive,aligned,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+24,34,normal,lean_right,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+25,86,normal,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+26,34,underactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+27,60,underactive,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+28,75,underactive,lean_right,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+29,35,underactive,lean_right,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+30,50,underactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+31,43,overactive,lean_right,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+32,54,underactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+33,62,overactive,slouched,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+34,80,overactive,aligned,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+35,34,normal,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+36,41,overactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+37,84,normal,lean_left,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+38,39,overactive,lean_left,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+39,59,underactive,lean_right,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+40,57,underactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+41,59,overactive,lean_left,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+42,94,normal,lean_right,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+43,73,underactive,lean_right,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+44,90,normal,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+45,99,normal,aligned,0,good,100,✅ You're healing. Great posture! Keep it up.
+46,80,underactive,lean_left,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+47,66,underactive,slouched,2,good,100,"⚠️ High-risk: Sit upright, relax legs. Initiating deep-breathing."
+48,71,overactive,lean_right,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+49,54,overactive,lean_right,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
+50,69,underactive,lean_left,1,good,100,🟡 Moderate stage: Adjust posture and stay calm.
